@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* montserrat  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* poppins  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@layer base {
+    body {
+        @apply font-[poppins]
+    }
+}
