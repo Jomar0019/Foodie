@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/foodie/static/css/main.4260403e.css",
+    "main.js": "/foodie/static/js/main.b2d52308.js",
+    "static/media/menu-pizza.jpg": "/foodie/static/media/menu-pizza.89c15ee2928f28a229f8.jpg",
+    "static/media/menu-chicken.jpg": "/foodie/static/media/menu-chicken.edee52636a6da190be0f.jpg",
+    "static/media/hero3.png": "/foodie/static/media/hero3.202df3f518f123786c6a.png",
+    "static/media/hero.png": "/foodie/static/media/hero.9558d2940721fba08433.png",
+    "static/media/menu-steak.jpg": "/foodie/static/media/menu-steak.dcc32bf1a47349e49dab.jpg",
+    "index.html": "/foodie/index.html",
+    "main.4260403e.css.map": "/foodie/static/css/main.4260403e.css.map",
+    "main.b2d52308.js.map": "/foodie/static/js/main.b2d52308.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4260403e.css",
+    "static/js/main.b2d52308.js"
+  ]
+}
