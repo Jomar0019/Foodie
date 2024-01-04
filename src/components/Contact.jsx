@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Pizza from '../assets/hero3.png'
 
 
@@ -30,7 +30,7 @@ const Contact = () => {
                         <label className='font-bold'>Message</label>
                         <textarea name="" id="" cols="30" rows="10" className='w-full border border-black rounded'></textarea>
 
-                        <button className='w-full bg-red-500 text-white px-[8px] mt-5 py-[4px] rounded'>Submit</button>
+                        <button className='w-full bg-red-500 text-white px-[8px] mt-3 py-[7px] rounded'>Submit</button>
                     </div>
                     <div className='  hidden md:flex'>
                         <img src={Pizza} alt="" className='rotate-180' />

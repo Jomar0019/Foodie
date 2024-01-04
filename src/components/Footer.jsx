@@ -49,7 +49,7 @@ const Footer = () => {
         
 
         <div className='w-full bg-[#f5f5f5] p-4 text-center text-black/50 font-bold'>
-          © 2023 Jomar Magpoot.
+          © 2023 Jomar Magpoot. Foodie
         </div>
 
     </div>
